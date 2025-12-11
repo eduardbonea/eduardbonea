@@ -18,7 +18,7 @@ I primarily work with Node.js, but I often step into Frontend and DevOps respons
 
 **OS**: Windows, Ubuntu, Linux Mint
 
-**Portofolio:** You can explore my work on my [Personal Website](eduardbonea.com) 🌐, hosted on a DigitalOcean server and deployed on Ubuntu 22.04 LTS.
+**Portofolio:** You can explore my work on my [Personal Website](https://eduardbonea.com) 🌐, hosted on a DigitalOcean server and deployed on Ubuntu 22.04 LTS.
 
 ---
 
